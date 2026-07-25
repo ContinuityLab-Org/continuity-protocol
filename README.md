@@ -1,5 +1,7 @@
 # Continuity Protocol
 
+[![CPS-0001](https://img.shields.io/badge/CPS-0001-v1.0--RC-gold)](https://github.com/ContinuityLab-Org/continuity-protocol) [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](LICENSE) [![Health](https://img.shields.io/badge/community%20health-100%25-brightgreen)](https://github.com/ContinuityLab-Org/continuity-protocol/community) [![Discussions](https://img.shields.io/badge/discussions-welcome-purple)](https://github.com/ContinuityLab-Org/continuity-protocol/discussions) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-orange)](CITATION.cff)
+
 **CPS-0001 v1.0-RC** · Apache 2.0 · [The Continuity Lab](https://thecontinuitylab.org)
 
 > CPS-0001 is NOT MyShape. MyShape is the first implementation. The protocol is the object model. Any engine, any sensor, any team can produce a valid receipt.
